@@ -7,3 +7,6 @@ We first extracted data from National Weather Service and used Pandas to create 
 
 # Challenges we ran into
 Initially, we used linear regression to predict all three target variables, but the accuracy score was very low because our data had a convex shape. Recognizing this limitation, we experimented with different models for each target variable and utilized Hyperparameter Tuning, which led to significantly improved accuracy. Collaborating with my friend, we divided tasks and tackled these challenges together, which deepened our understanding of machine learning algorithms.
+
+# Results and Impact
+"Our model’s accurate predictions can help farmers plan their activities better, travelers make informed decisions, and even local businesses optimize their operations. Companies can adjust their supply chain logistics through our model, minimizing disruptions caused by adverse weather conditions. Retail businesses can adjust inventory and staffing levels based on expected weather conditions, enhancing operational efficiency and improving customer satisfaction.
